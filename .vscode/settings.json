@@ -1,0 +1,50 @@
+{
+  "javascript.validate.enable": false,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "twig.validate": false,
+  "stylelint.enable": true,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "files.exclude": {
+    "**/.vscode/": true,
+    "**/.vercel/": true,
+    "**/.github/": true,
+    "**/.out/": true,
+    "**/.next/": true,
+    "**/node_modules/": true,
+    "**/build/": true,
+    "*.gitkeep": true,
+    "*.gitmodules": true,
+    "*.lock": true,
+    "*.gitignore": true,
+    "*.vercelignore": true,
+    "*.stylelintignore": true,
+    "*.eslintignore": true,
+    "*.editorconfig": true,
+    "*.prettierrc.js": true,
+    "*vercel.json": true,
+    "*gulpconfig.js": true,
+    "*LICENSE.md": true
+  },
+  "search.exclude": {
+    "**/.vscode/": false,
+    "**/tmp": true,
+    "*.jpg": true,
+    "*.gitmodules": false,
+    "*.lock": false,
+    "*.gitignore": false,
+    "*.vercelignore": false,
+    "*.stylelintignore": false,
+    "*.eslintignore": false,
+    "*.editorconfig": false,
+    "*.prettierrc.js": false,
+    "*vercel.json": false,
+    "*gulpconfig.js": false,
+    "*LICENSE.md": false
+  }
+}

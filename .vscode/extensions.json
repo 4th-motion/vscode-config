@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "hookyqr.beautify",
+    "aessoft.aessoft-class-autocomplete",
+    "dbaeumer.vscode-eslint",
+    "drknoxy.eslint-disable-snippets",
+    "ghmcadams.lintlens",
+    "hedinne.stylelint-disable-snippets",
+    "stylelint.vscode-stylelint",
+    "zignd.html-css-class-completion",
+    "yatki.vscode-surround",
+    "spywhere.guides",
+    "abusaidm.html-snippets",
+    "heybourn.headwind",
+    "glen-84.sass-lint",
+    "mrmlnc.vscode-scss",
+    "aaronphy.scss-scan",
+    "ansenhuang.vscode-view-readme",
+    "xabikos.javascriptsnippets",
+    "redhat.vscode-yaml",
+    "christian-kohler.path-intellisense",
+    "wayou.vscode-todo-highlight"
+  ]
+}
