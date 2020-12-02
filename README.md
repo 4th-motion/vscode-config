@@ -66,7 +66,7 @@ You can rename this project to `@company/vscode-config` to tailor it to your coo
 
 ## License
 
-Copyright © 2020 by 4th motion GmbH. Released under the [MIT License][license].
+Copyright © 2020 by 4th motion GmbH. Released under the [MIT License][license]. 
 
 [version-image]: https://img.shields.io/github/package-json/v/4th-motion/vscode-config
 [license-image]: https://img.shields.io/github/license/4th-motion/vscode-config
