@@ -1,5 +1,5 @@
 {
-  "name": "@4th/vscode-config",
+  "name": "@4th-motion/vscode-config",
   "description": "An easy way to share basic VSCode settings and extensions between your projects.",
   "version": "1.0.0",
   "main": "index.js",
@@ -14,20 +14,20 @@
   },
   "scripts": {
     "fresh": "rm -rf node_modules; yarn install",
-    "lint": "4th-eslint . --color --fix"
+    "lint:js": "4th-eslint ./**/*.js --color --fix --quiet"
   },
   "dependencies": {
     "chalk": ">= 2.4"
   },
   "devDependencies": {
-    "@4th/eslint-config": "4th-motion/eslint-config"
+    "@4th-motion/eslint-config": ">= 1"
   },
   "engines": {
     "node": ">= 6"
   },
   "eslintConfig": {
     "extends": [
-      "@4th/eslint-config"
+      "@4th-motion/eslint-config"
     ]
   }
 }

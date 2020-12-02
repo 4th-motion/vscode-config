@@ -1,4 +1,4 @@
-# @4th/vscode-config
+# @4th-motion/vscode-config
 > An easy way to share basic VSCode settings and extensions between your projects.
 
 ![Version][version-image]
@@ -13,7 +13,7 @@ With this config you can make sure that all developers in your team have the sam
 Add this package as a devDependency to your project:
 
 ```
-yarn add --dev @4th/vscode-config
+yarn add --dev @4th-motion/vscode-config
 ```
 
 <br>
@@ -58,9 +58,9 @@ You can rename this project to `@company/vscode-config` to tailor it to your coo
 
 ## Related projects
 
-@4th/git-hooks | @4th/stylelint-config
+@4th-motion/git-hooks | @4th-motion/stylelint-config
 :-------------------------|:-------------------------
-[![@4th/git-hooks][git-hooks-image]][git-hooks] | [![@4th/stylelint-config][stylelint-image]][stylelint-config]
+[![@4th-motion/git-hooks][git-hooks-image]][git-hooks] | [![@4th-motion/stylelint-config][stylelint-image]][stylelint-config]
 
 <br>
 
@@ -74,4 +74,4 @@ Copyright © 2020 by 4th motion GmbH. Released under the [MIT License][license].
 [stylelint-image]: https://avatars3.githubusercontent.com/u/10076935?s=200&v=4
 [git-hooks]: https://github.com/4th-motion/git-hooks
 [stylelint-config]: https://github.com/4th-motion/stylelint-config
-[license]: LICENSE.md
+[license]: /LICENSE.md
