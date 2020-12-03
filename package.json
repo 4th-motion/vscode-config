@@ -1,7 +1,7 @@
 {
   "name": "@4th-motion/vscode-config",
   "description": "An easy way to share basic VSCode settings and extensions between your projects.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Marco Koenen <mako@4thmotion.com>",
   "license": "MIT",
