@@ -30,7 +30,9 @@
     "**/*vercel.json": true,
     "**/*gulpconfig.js": true,
     "**/*LICENSE.md": true,
-    "**/*.env": true
+    "**/*.env": true,
+    "**/*.mo": true,
+    "**/*.po": true
   },
   "search.exclude": {
     "**/.vscode/": false,
@@ -47,6 +49,8 @@
     "**/*vercel.json": false,
     "**/*gulpconfig.js": false,
     "**/*LICENSE.md": false,
-    "**/*.env": false
+    "**/*.env": false,
+    "**/*.mo": false,
+    "**/*.po": false
   }
 }
