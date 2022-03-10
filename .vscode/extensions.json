@@ -19,6 +19,7 @@
     "xabikos.javascriptsnippets",
     "redhat.vscode-yaml",
     "christian-kohler.path-intellisense",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "codeattendant.attendant"
   ]
 }
